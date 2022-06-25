@@ -1,3 +1,9 @@
+basic overview of your project.
+In this project , you can simply write ant query and it will return dummy data in the form of table.
+
+Page load time of this application
+page load time of this application is 399. I created a var "loadTime" and used javascript inbuilt query for calculating time.😄 syntax🖥️; var loadTime = window.performance.timing.domContentLoadedEventEnd - window.performance.timing.navigationStart;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
