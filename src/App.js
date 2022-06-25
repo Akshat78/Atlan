@@ -1,5 +1,5 @@
 import Main from "./Components/main";
-import Front from "./Components/Front/Front";
+import Front from "./Components/Front";
 
 function App() {
 	return (

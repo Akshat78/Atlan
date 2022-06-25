@@ -1,5 +1,5 @@
 import React from "react";
-import "./Front.css";
+import "./style.css";
 import Main from "../main/index";
 import { Routes, Route, useNavigate } from "react-router-dom";
 
