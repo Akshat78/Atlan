@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Akshat78/Atlan.git/static/css/main.d9099870.css",
+    "main.js": "/Akshat78/Atlan.git/static/js/main.88759960.js",
+    "index.html": "/Akshat78/Atlan.git/index.html",
+    "main.d9099870.css.map": "/Akshat78/Atlan.git/static/css/main.d9099870.css.map",
+    "main.88759960.js.map": "/Akshat78/Atlan.git/static/js/main.88759960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9099870.css",
+    "static/js/main.88759960.js"
+  ]
+}
